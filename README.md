@@ -1,7 +1,7 @@
 # Junior Spring Boot Interview Exercise
 
 This is a small Spring Boot kata for interviewing a junior Java developer.
-The candidate should make the failing tests pass without changing the test expectations unless you explicitly discuss it during the interview.
+The candidate should make the failing tests pass without changing the test expectations.
 
 Requires Java 21.
 
